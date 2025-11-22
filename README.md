@@ -1,35 +1,34 @@
 # CS50 Final Project: To-Do List Web App | نظرات کاربران
 
-این ویدئو معرفی پروژه نهایی من برای دوره **CS50** است. پروژه یک **اپلیکیشن وب ساده** است که به کاربران این امکان را می‌دهد که **نظرات خود را وارد کنند، مشاهده کنند و حذف کنند**. این اپلیکیشن با استفاده از **HTML**، **CSS** و **JavaScript** ساخته شده است و نظرات به صورت محلی در **localStorage** مرورگر ذخیره می‌شوند، به این معنا که پس از بارگذاری مجدد صفحه، نظرات همچنان باقی می‌مانند.
+This project is a simple web application that allows users to add, view, and delete comments. It is built using **HTML**, **CSS**, and **JavaScript**. The application uses **localStorage** to save comments so that they persist even after the browser is refreshed. This project serves as a simple demonstration of how web applications can interact with local storage and allows users to engage with the content by adding and removing their feedback.
 
-## ویژگی‌های پروژه:
-- **اضافه کردن نظر**: کاربران می‌توانند نظر خود را وارد کنند و آن را در لیست نظرات مشاهده کنند.
-- **ذخیره‌سازی نظرات**: نظرات در **localStorage** مرورگر ذخیره می‌شوند و پس از بارگذاری مجدد صفحه، همچنان در دسترس خواهند بود.
-- **حذف نظرات**: کاربران می‌توانند نظرات خود را حذف کنند.
-- **حفظ داده‌ها پس از بارگذاری صفحه**: نظرات حتی پس از بارگذاری مجدد صفحه همچنان باقی می‌مانند.
+## Features
+- **Add Comments**: Users can add their comments to the list.
+- **Delete Comments**: Each comment can be deleted by the user.
+- **LocalStorage**: Comments are saved in the browser's **localStorage** so they persist after refreshing the page.
+- **Responsive Design**: The app is mobile-friendly and adapts to different screen sizes.
 
-## نحوه استفاده از اپلیکیشن:
-1. فایل `index.html` را در مرورگر خود باز کنید.
-2. نظرات خود را وارد کنید و آن‌ها را مشاهده خواهید کرد.
-3. برای حذف یک نظر، روی دکمه "حذف" کلیک کنید.
+## How to Use
+1. Download or clone the repository.
+2. Open `index.html` in your browser.
+3. Add comments in the input field and click the 'Add Comment' button to see your comment appear on the list.
+4. You can delete any comment by clicking the 'Delete' button next to it.
+5. Refresh the page, and the comments will still be visible since they are saved in localStorage.
 
-## ویژگی‌های آینده:
-در آینده قصد دارم ویژگی‌های جدیدی مانند:
-- **سیستم امتیازدهی نظرات** (لایک و دیسلایک)
-- **سیستم ثبت‌نام و ورود کاربران**
-- **نمایش تعداد نظرات**
+## Future Features
+In the future, I plan to add features such as:
+- **User Login and Registration**: Allow users to log in and manage their comments.
+- **Like/Dislike System**: Let users like or dislike comments.
+- **Sorting and Filtering**: Implement sorting and filtering options for the comments.
 
-را به پروژه اضافه کنم.
+## Contributing
+Feel free to contribute to this project by submitting pull requests or opening issues. Whether it's a bug fix or a new feature, your contributions are welcome!
 
-## لینک ویدئو یوتیوب:
-برای مشاهده توضیحات ویدئویی پروژه، لطفاً این لینک را مشاهده کنید:  
-**[To-Do List Web App | CS50 Final Project Video Demo](https://youtu.be/wwKI3tIjSPc)**
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## لینک گیت‌هاب:
-برای مشاهده کد پروژه و جزئیات بیشتر، به مخزن گیت‌هاب من مراجعه کنید:  
-**[GitHub Repository](https://github.com/Mohadesehajihashemi/todo-app)**
+## YouTube Demo Video:
+[To-Do List Web App | CS50 Final Project Video Demo](https://youtu.be/wwKI3tIjSPc)
 
----
-
-## نحوه ارسال پروژه:
-پروژه نهایی خود را با استفاده از دستور `submit50` ارسال کرده‌ام و لینک ویدئوی یوتیوب را در آن وارد کرده‌ام تا ربات CS50 بتواند آن را شناسایی کند.
+## GitHub Repository:
+[GitHub Repository](https://github.com/Mohadesehajihashemi/todo-app)
