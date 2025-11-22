@@ -1,39 +1,21 @@
+MIT License
 
----
+Copyright (c) 2025 Mohadeseh Hajihashemi
 
-### توضیح هر بخش:
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-1. **عنوان پروژه** (`# To-Do List Web App`):
-   - این بخش عنوان پروژه شما را مشخص می‌کند.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-2. **توضیح پروژه**:
-   - این بخش توضیح می‌دهد که پروژه چه کاری انجام می‌دهد. به طور ساده و مختصر ویژگی‌ها و عملکرد کلی پروژه را بیان می‌کند.
-
-3. **ویژگی‌ها**:
-   - این بخش ویژگی‌های اصلی پروژه را که در آن کاربران می‌توانند نظر بدهند، آن‌ها را حذف کنند و نظرها در مرورگر ذخیره شوند، شرح می‌دهد.
-
-4. **نحوه استفاده**:
-   - در اینجا، نحوه استفاده از پروژه توضیح داده می‌شود. به عنوان مثال، چطور می‌توان آن را دانلود کرد و در مرورگر خود باز کرد.
-
-5. **نصب و راه‌اندازی**:
-   - این بخش دستورالعمل‌های مورد نیاز برای دانلود و شروع کار با پروژه را توضیح می‌دهد.
-
-6. **ساختار پروژه**:
-   - این قسمت به توضیح این که هر فایل چه وظیفه‌ای دارد، می‌پردازد.
-
-7. **ویژگی‌های آینده**:
-   - در این بخش می‌توانید ویژگی‌های جدیدی که ممکن است در آینده به پروژه اضافه کنید، معرفی کنید.
-
-8. **مشارکت**:
-   - این بخش به افراد نشان می‌دهد که چطور می‌توانند در پروژه مشارکت کنند، مثلاً با ارسال پول ریکوئست یا گزارش مشکل.
-
-9. **لایسنس**:
-   - در این بخش لایسنس پروژه آورده می‌شود. اگر لایسنس خاصی برای پروژه در نظر نگرفته‌اید، می‌توانید از لایسنس MIT استفاده کنید که یکی از رایج‌ترین لایسنس‌ها برای پروژه‌های منبع باز است.
-
----
-
-### نکات مهم:
-- اگر تصمیم دارید که پروژه را در گیت‌هاب به اشتراک بگذارید، فایل `README.md` اولین چیزی است که دیگران می‌بینند، پس حتماً آن را واضح و جامع بنویسید.
-- در صورتی که قصد اضافه کردن ویژگی‌های جدیدی دارید، می‌توانید این ویژگی‌ها را در بخش "ویژگی‌های آینده" ذکر کنید.
-
-اگر سوالی در مورد نحوه تنظیم `README.md` یا هر بخش دیگری از پروژه دارید، خوشحال می‌شوم که کمک کنم!
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
